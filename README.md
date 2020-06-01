@@ -26,6 +26,8 @@ _Exploring Natural Language Processing using Azure, Usha Rengaraju, Principal Da
 
 [Slides] [https://www.slideshare.net/CodeOps/identifying-defaulters-using-machine-learning-ritesh-modi](https://www.slideshare.net/CodeOps/identifying-defaulters-using-machine-learning-ritesh-modi)
 
+The Supporting source jypyter notebook files (are added in this repo itself)
+
 5. _"Using the Azure Machine Learning Python SDK to Train a PyTorch model at Scale", Henk Boelman, Cloud Advocate at Microsoft_
 
 [Slides] [https://speakerdeck.com/hnky/build-and-deploy-pytorch-models-with-azure-machine-learning](https://speakerdeck.com/hnky/build-and-deploy-pytorch-models-with-azure-machine-learning) 
