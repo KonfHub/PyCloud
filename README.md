@@ -29,4 +29,5 @@ _Exploring Natural Language Processing using Azure, Usha Rengaraju, Principal Da
 5. _"Using the Azure Machine Learning Python SDK to Train a PyTorch model at Scale", Henk Boelman, Cloud Advocate at Microsoft_
 
 [Slides] [https://speakerdeck.com/hnky/build-and-deploy-pytorch-models-with-azure-machine-learning](https://speakerdeck.com/hnky/build-and-deploy-pytorch-models-with-azure-machine-learning) 
+[Code] [https://github.com/hnky/amls-pytorch](https://github.com/hnky/amls-pytorch)
 
