@@ -1,0 +1,10 @@
+area,rent,city,rooms,new
+1200,25000,hyderabad,2,yes
+1495,40000,Bangalore,3,yes
+800,50000,mumbai,1,no
+2000,,hyderabad,4,yes
+1800,45000,bangalore,3,no
+1000,25000,chennai,2,yes
+1200,60000,mumbai,2,yes
+1200,35000,hyderabad,2,no
+1200,30000,chennai,1,no 
